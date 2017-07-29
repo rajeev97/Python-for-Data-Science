@@ -1,0 +1,27 @@
+Basic Steps in a Data Science Project
+
+1. Data Acquisition
+2. Data Preparation
+3. Data Analysis
+4. Report
+5. Actions Based on Analysis
+
+The specifics of each process can be different but the overall steps remain the same. 
+
+Data Obtained From Sources can Be Diverse in nature
+1. Databases- both relational and nonrelational
+2. Text Files-CSV files and Text Files
+3. Live Feeds such as sensors and online platforms like Twitter or weather observations
+
+The soccer data is obtained from websites and ingested into Python, which has well defined methods for 
+ingesting data like data bases, APIS.
+
+Data Preparation includes data cleaning such as missing entries and outliers and garbage values. These are substituted with well known
+aggregate value. 
+
+We use feature selection to select certain domain attributes to perform clustering of data based on it.
+This results in models which are easier to analyze, and involves machine learning algorithms.
+We use k-means to perform clustering of data.
+
+From this we generate a graph, from which coaches can interpret the action plan for upcoming drills 
+to better prepare the soccer team. 
