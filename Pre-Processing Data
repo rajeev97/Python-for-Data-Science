@@ -1,0 +1,30 @@
+2 goals:
+Data cleaning
+Transform Data to make it Suitable for Analysis
+
+
+Data cleaning is required because of 
+1. Inconsistent Values
+2. Duplicate records
+3. Missing Values
+4. Invalid Data
+5. Outliers
+
+Solution:
+1. Remove Data with missing values
+2. Merge Duplicate Records
+3. Generate best estimate for invalid values
+4. remove outliers
+
+
+
+
+Transformation of Data
+1. Scaling - Changing range of values to smaller values
+2. Transformation-Transformation can be don to reduce noise and variability. This is called aggregation.
+3.Feature Selection- removing redundant or irrelavant features, combining features and creating new ones. 
+   If two features are closely correllated then it can be removed. 
+   There are algorithms to determine most relavant features:
+    1. Dimensionalilty reduction is useful when there are large dimensions. It reduces the dimensions in data and makes analysis simpler.
+        Ex: Principle Component Analysis
+             Data must be moulded to correct format for analysis
