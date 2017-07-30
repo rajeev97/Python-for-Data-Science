@@ -1,0 +1,26 @@
+Acquiring Data includes 
+1. Identifying The Suitable data.
+2. Acquire all data.
+It comes from many places and there are many ways to access the data.
+
+
+A lot of data exists in traditional databases which support SQL.
+It can be found in files or excel spreadsheets. Scripting languages are used to identify and acquire data in files.
+Data Can also be found on Webpages in the form of XML or JSON forms. 
+
+
+Many Websites also host Web services, which provide programmatic access to their data. Several types are discussed below:
+1. REST- REPRESENTATIONAL STATE TRANSFER, and is used for implementing web services with performance 
+   scalability and maintainability in mind.
+2. WEBSOCKET- services allow real time notifications from websites.
+3. NoSQL data stores provide APIs to allow users to access data. They dont have tables. 
+These APIS can be used directly or in an application that needs to access the data, like Python Script.
+
+
+Example
+
+Acquiring Data related to Wildfires
+
+Historical Weather- SQL
+Current Weather- Websocket
+Real Time Tweets- REST
