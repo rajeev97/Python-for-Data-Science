@@ -1,0 +1,19 @@
+Exploring Data is a big setp of the 2 step data preparation activity.
+
+In the first step correlations, general trends and outliers must be identified.
+Correlation Graphs-used to explore the dependencies
+General Trands show a graph of how data is progressing over time.
+Outliers  will help detect errors in data and rare events. 
+
+Summary Statistics provide the numberical values to describe data. 
+Include mean, median, mode, standard deviation.
+Mean and median are measures of the location of specific values.
+Mode is the value that is most used in data set. 
+
+Python offers all these functions.
+
+Visualization techniques provide quick and effective useful way of looking at data such as heat maps.
+Histograms show distribution of data. 
+Boxplots are another type of plots. 
+Line Graphs are used to see the variations overtime. 
+
