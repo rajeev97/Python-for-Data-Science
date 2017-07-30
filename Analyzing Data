@@ -1,0 +1,30 @@
+The input data is used to build an analysis m
+Input Data->Analysis technique->Model->Model Output
+
+Different Techniques 
+1. Classification- Goal is to predict the category of input data of a certain type
+   (Sunny, Rainy, Windy, etc)
+2. Regression- When we need to predict a nummeric value of something
+   (Stock prediction)
+3. Clustering- Organizing similar items into groups
+   (Classification of the population into old, young, and middle age)]
+4. Association Analysis-to come up with a set of rules to capture associations between items or events
+    used to determine when they come together
+    (Market Basket Analysis to predict customer purchasing behavior)
+    
+Data can be transformed into a graph and outcomes can be determined by graph analytics. 
+
+Modelling
+1. Select Technique
+2. Build Model
+3. Validate Model
+
+We can use data to construct model and use a little of remaining data to evaluating the model.
+
+Evaluating Results
+Classification and Regression Together applied can check each other
+Clustering can be evaluated by analyzing main objective solved
+Association analysis and Graph Analysis is analyzed by examining the real world situation with the prediction.
+
+
+
